@@ -21,6 +21,7 @@ Modern software development is being transformed by AI agents, coding copilots, 
 - [Spec-Driven Development](#spec-driven-development)
 - [Skills & Plugins](#skills--plugins)
 - [Methodologies](#methodologies)
+- [Execution Control & Governance](#execution-control--governance)
 - [Learning Resources](#learning-resources)
 
 ---
@@ -214,6 +215,16 @@ Use multiple specialized agents for complex projects:
 - **Tester Agent** - Creates and runs tests
 
 See our [Spec-Driven Development Guide](guides/spec-driven-development.md) for details.
+
+---
+
+## 🛡️ Execution Control & Governance
+
+Infrastructure that sits inline with agent execution to enforce policies, provide audit trails, and enable intervention.
+
+| Name | Author | Description |
+|------|--------|-------------|
+| [AxonFlow](https://github.com/getaxonflow/axonflow) | AxonFlow | Source-available (BSL) control plane for governing LLM and agent workflows. Policy enforcement, audit logging, and human-in-the-loop intervention. Designed to work alongside existing frameworks. |
 
 ---
 
