@@ -135,6 +135,7 @@ Monitor, debug, and route LLM traffic in production.
 | [LiteLLM](https://github.com/BerriAI/litellm) | BerriAI | Gateway | Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and caching |
 | [Langfuse](https://github.com/langfuse/langfuse) | Langfuse | Observability | Open-source LLM engineering platform with tracing, prompt management, and evaluations |
 | [Helicone](https://github.com/Helicone/helicone) | Helicone | Observability | LLM observability with request logging, cost tracking, and prompt analytics |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | luoyuctl | Observability | Inspect AI coding agent sessions for cost, tokens, latency, and slow runs |
 | [OpenLLMetry](https://github.com/traceloop/openllmetry) | Traceloop | Observability | OpenTelemetry-based tracing for LLMs, integrates with Datadog, Honeycomb, Grafana |
 | [Logfire](https://github.com/pydantic/logfire) | Pydantic | Observability | Python-native observability with OpenTelemetry, excellent FastAPI/Pydantic integration |
 
