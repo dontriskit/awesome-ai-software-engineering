@@ -165,6 +165,7 @@ Tools and methodologies for requirements-first AI development.
 | [Get Shit Done](https://github.com/glittercowboy/get-shit-done) | Glitter Cowboy | Opinionated workflow for shipping with AI assistance |
 | [SpecStory](https://github.com/specstoryai/specstory) | SpecStory | Turn user stories into detailed specifications |
 | [nano-spec](https://github.com/tao-hpu/nano-spec) | tao-hpu | Lightweight task specification framework with 4-doc structure for AI development |
+| [AI Development Methodology](https://github.com/Korner83/ai-development-methodology) | Korner83 | Markdown-and-git methodology for human+AI peer teams: pillars→epics→items, file-based locks, fix-test loop, cross-AI validation (CC BY 4.0) |
 
 ---
 
