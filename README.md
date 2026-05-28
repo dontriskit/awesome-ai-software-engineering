@@ -105,6 +105,7 @@ Coordinate multiple AI agents for complex engineering tasks.
 | Name | Author | Description |
 |------|--------|-------------|
 | [Gas Town](https://github.com/steveyegge/gastown) | Steve Yegge | Multi-agent coding framework with specialized agent roles |
+| [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Ivy Interactive | Orchestrate Claude Code, Codex, and Antigravity via plan-driven lifecycles with verification gates |
 | [Ralph](https://github.com/snarktank/ralph) | Snarktank | PRD-driven development with automated planning loops |
 | [CrewAI](https://github.com/joaomdmoura/crewai) | Joao Moura | Framework for orchestrating role-playing autonomous agents |
 | [AutoGen](https://github.com/microsoft/autogen) | Microsoft | Multi-agent conversation framework (⚠️ maintenance mode - see [Microsoft Agent Framework](#agent-sdks)) |
