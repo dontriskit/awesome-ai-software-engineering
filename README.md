@@ -180,6 +180,7 @@ Extend your AI coding tools with custom capabilities.
 | [awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) | VoltAgent | Skills library for extending Claude Code capabilities |
 | [claudekit-skills](https://github.com/mrgoonie/claudekit-skills) | mrgoonie | Ready-to-use skills for Claude Code workflows |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Anthropic | Official Model Context Protocol server implementations |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | TWZRD | Solana-native AI agent trust scoring MCP server — verify agent wallet identity and on-chain reputation before x402 micropayments. Free `score_agent`/`preflight_check` tools, paid signed trust receipts via x402 |
 
 ---
 
