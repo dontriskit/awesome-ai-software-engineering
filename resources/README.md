@@ -89,7 +89,7 @@ External links and additional learning materials.
 | Newsletter | Description |
 |------------|-------------|
 | [The Batch](https://www.deeplearning.ai/the-batch/) | Andrew Ng's AI newsletter |
-| [AI Weekly](https://aiweekly.co) | Curated AI news |
+| [AI Weekly](https://aiweekly.co/) | Ranks what AI experts read and share across models, agents, policy, and research |
 
 ---
 
