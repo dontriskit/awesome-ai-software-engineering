@@ -133,6 +133,7 @@ Monitor, debug, and route LLM traffic in production.
 | Name | Author | Type | Description |
 |------|--------|------|-------------|
 | [LiteLLM](https://github.com/BerriAI/litellm) | BerriAI | Gateway | Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and caching |
+| [Bifrost](https://github.com/maximhq/bifrost) | Maxim HQ | Gateway | OpenAI-compatible gateway for multi-provider routing, fallbacks, load balancing, virtual keys, and observability |
 | [Langfuse](https://github.com/langfuse/langfuse) | Langfuse | Observability | Open-source LLM engineering platform with tracing, prompt management, and evaluations |
 | [Helicone](https://github.com/Helicone/helicone) | Helicone | Observability | LLM observability with request logging, cost tracking, and prompt analytics |
 | [OpenLLMetry](https://github.com/traceloop/openllmetry) | Traceloop | Observability | OpenTelemetry-based tracing for LLMs, integrates with Datadog, Honeycomb, Grafana |
