@@ -77,6 +77,7 @@ Autonomous agents that can plan, write, and debug code with minimal supervision.
 | [OpenAI Codex](https://openai.com/codex) | OpenAI | Cloud-based coding agent for autonomous development tasks |
 | [GitHub Copilot CLI](https://github.blog/changelog/2026-01-14-github-copilot-cli-enhanced-agents-context-management-and-new-ways-to-install/) | GitHub | Terminal-based AI assistant with agent delegation and parallel execution |
 | [GitHub Copilot Coding Agent](https://github.com/features/copilot/agents) | GitHub | Cloud-hosted autonomous agent that works on GitHub issues |
+| [Volt](https://github.com/LeulAria/VOLT) | LeulAria | Open-source VS Code-core editor running Claude Code, Codex & local models |
 
 ---
 
