@@ -180,6 +180,7 @@ Extend your AI coding tools with custom capabilities.
 | [awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) | VoltAgent | Skills library for extending Claude Code capabilities |
 | [claudekit-skills](https://github.com/mrgoonie/claudekit-skills) | mrgoonie | Ready-to-use skills for Claude Code workflows |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Anthropic | Official Model Context Protocol server implementations |
+| [ponder](https://github.com/Quinnod345/ponder) | Quinn O'Donnell | Enforce coverage-gated, multi-pass deliberation loops and review ledgers for AI coding agents |
 
 ---
 
